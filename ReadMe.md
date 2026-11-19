@@ -1,4 +1,3 @@
-# 💫 About Me:
 ## 👨‍💻 About Me<br><br>- 🔭 I'm currently working on **Java Backend Development and AI-powered applications**.<br>- 🤝 I'm looking to collaborate on **Java, Spring Boot, REST API, and Open-Source Projects**.<br>- 💡 I'm looking for help with **Advanced Backend Architecture, System Design, and Cloud Technologies**.<br>- 🌱 I'm currently learning **Spring Boot, Spring Security, JWT Authentication, Hibernate, Microservices, and AI/LLM Integration**.<br>- 💬 Ask me about **Java, Core Java, Advanced Java, Spring Boot, JDBC, Hibernate, SQL, MongoDB, and Backend Development**.<br>- ⚡ Fun fact: **I love building real-world applications and turning ideas into working software.**<br><br>### 🎯 My Goal<br>To become a skilled Java Backend Developer by building scalable, secure, and maintainable applications while continuously improving my problem-solving skills.<br>
 
 
